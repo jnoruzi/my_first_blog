@@ -1,4 +1,3 @@
-# my_first_blog
 Blog App for Learning
 
 This is a learning project. I created a blog app with user login/signup on PostgreSQL DB.
